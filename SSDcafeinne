@@ -1,3 +1,9 @@
-species,value,n
-D. magna,299.65,4
-A. salina, 3456,6,1
+"species", "value", "n"
+"D. magna" ,299.65,4
+"A. salina" , 3456.6,1
+"B. calyciflorus" , 4660.5,1
+"S. proboscideus" , 409.7,1
+"P. patulus" , 419.0,1
+"D. japonica" , 377.6,1
+"C. dubia" , 60,1
+"C. silvestrii" , 45.9,1
